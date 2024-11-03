@@ -67,4 +67,4 @@ For more detailed information about each method and class in the library, please
 ## Additional Resources
 
 - [Documentation](https://github.com/itbert/Sapphire-DL/documentation)
-- [Usage Examples](https://github.com/itbert/Sapphire-DL/examples)
+- [Usage Examples](https://github.com/itbert/Sapphire-DL/tree/main/examples)
