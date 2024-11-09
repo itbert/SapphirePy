@@ -17,10 +17,11 @@ The library allows you to easily create complex neural networks using high-level
 
 ```python
 import numpy as np
+import sapphiredl
 
-from training import train
-from neural_networks import NeuralNetwork
-from layers import LinearLayer, HypTan
+from sapphiredl.training import train
+from sapphiredl.neural_networks import NeuralNetwork
+from sapphiredl.layers import LinearLayer, HypTan
 
 inputs = np.array([
     [0, 0],
